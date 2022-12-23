@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.23)
+project(Chapitre_03)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_subdirectory(Exo-3-06)
+add_subdirectory(Exo-3-07)
+add_subdirectory(Exo-3-08)
+add_subdirectory(Exo-3-09)
+add_subdirectory(Exo-3-10)
+add_subdirectory(Exo-3-11)
+add_subdirectory(Exo-3-12)
+add_subdirectory(Exo-3-19)
+add_subdirectory(Exo-3-24)
+add_subdirectory(Exo-3-27)
+add_subdirectory(Exo-3-31)
+add_subdirectory(Exo-3-32)
+add_subdirectory(Exo-3-33)
